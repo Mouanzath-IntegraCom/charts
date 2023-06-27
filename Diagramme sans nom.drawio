@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T16:17:42.779Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="jO4LB9LRALv8OEpv6mGv" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-27T17:08:27.858Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="GsTLHjwln5W9Tgcau7h5" version="21.5.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="3037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -230,7 +230,7 @@
         <mxCell id="3_JIYGMOuchRpUuccZof-222" value="revision_date   DateTime" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
           <mxGeometry y="78" width="286" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-241" value="cookies_managmnt    List&lt;String&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+        <mxCell id="3_JIYGMOuchRpUuccZof-241" value="cookies_managment    List&lt;String&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
           <mxGeometry y="104" width="286" height="26" as="geometry" />
         </mxCell>
         <mxCell id="3_JIYGMOuchRpUuccZof-206" value="contrat_writing_date   DateTime" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
@@ -329,7 +329,7 @@
         <mxCell id="3_JIYGMOuchRpUuccZof-229" value="company_open_time   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
           <mxGeometry y="936" width="286" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-149" value="company_representative   String&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+        <mxCell id="3_JIYGMOuchRpUuccZof-149" value="company_dg   String&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
           <mxGeometry y="962" width="286" height="26" as="geometry" />
         </mxCell>
         <mxCell id="3_JIYGMOuchRpUuccZof-228" value="company_email   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
@@ -338,7 +338,7 @@
         <mxCell id="3_JIYGMOuchRpUuccZof-275" value="company_people_intended_data   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
           <mxGeometry y="1014" width="286" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-150" value="company_representative_quality   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+        <mxCell id="3_JIYGMOuchRpUuccZof-150" value="company_dg_quality   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
           <mxGeometry y="1040" width="286" height="26" as="geometry" />
         </mxCell>
         <mxCell id="3_JIYGMOuchRpUuccZof-171" value="company_workforce   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
