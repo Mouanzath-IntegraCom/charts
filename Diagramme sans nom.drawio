@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T18:26:20.342Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Q2dvfDj7EG0kled0SsZl" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-29T08:31:50.076Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="6-9FqnS0z2xzuRexU4nb" version="21.5.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="3037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -224,241 +224,241 @@
         <mxCell id="3_JIYGMOuchRpUuccZof-133" value="id   Integer" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
           <mxGeometry y="26" width="286" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-239" value="teenagers_rights    String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+        <mxCell id="3_JIYGMOuchRpUuccZof-166" value="idcc_number   Integer" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
           <mxGeometry y="52" width="286" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-222" value="revision_date   DateTime" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+        <mxCell id="3_JIYGMOuchRpUuccZof-146" value="company_rcs_number    Integer" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
           <mxGeometry y="78" width="286" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-241" value="cookies_managment    List&lt;String&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+        <mxCell id="3_JIYGMOuchRpUuccZof-179" value="employee_trial_period   Integer" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
           <mxGeometry y="104" width="286" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-206" value="contrat_writing_date   DateTime" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+        <mxCell id="3_JIYGMOuchRpUuccZof-267" value="employee_trial_renewal   Integer" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
           <mxGeometry y="130" width="286" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-205" value="convention_date   DateTime" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+        <mxCell id="3_JIYGMOuchRpUuccZof-181" value="employee_severance_pay   Float" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
           <mxGeometry y="156" width="286" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-203" value="convention_renewal   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+        <mxCell id="3_JIYGMOuchRpUuccZof-210" value="employee_allowance   Float" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
           <mxGeometry y="182" width="286" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-207" value="convention_writing_place   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+        <mxCell id="3_JIYGMOuchRpUuccZof-180" value="employee_gross_pay   Float" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
           <mxGeometry y="208" width="286" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-209" value="clause_geographical_area   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+        <mxCell id="3_JIYGMOuchRpUuccZof-212" value="clause_refound   Float" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
           <mxGeometry y="234" width="286" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-211" value="clause_decision_deadline   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+        <mxCell id="3_JIYGMOuchRpUuccZof-213" value="employee_notice_end_date   DateTime" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
           <mxGeometry y="260" width="286" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-212" value="clause_refound   Float" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+        <mxCell id="3_JIYGMOuchRpUuccZof-168" value="employee_end_date   DateTime" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
           <mxGeometry y="286" width="286" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-166" value="idcc_number   Integer" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+        <mxCell id="3_JIYGMOuchRpUuccZof-172" value="employee_start_date   DateTime" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
           <mxGeometry y="312" width="286" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-173" value="job_rung   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+        <mxCell id="3_JIYGMOuchRpUuccZof-170" value="employee_hiring_date   DateTime&#xa;    &#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
           <mxGeometry y="338" width="286" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Q6SaiGtCZaNp9TXGjLjc-7" value="job_coefficient   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="3_JIYGMOuchRpUuccZof-132">
+        <mxCell id="3_JIYGMOuchRpUuccZof-178" value="employee_working_time   DateTime" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
           <mxGeometry y="364" width="286" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-174" value="job_position   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+        <mxCell id="3_JIYGMOuchRpUuccZof-176" value="employee_end_date   DateTime" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
           <mxGeometry y="390" width="286" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-136" value="company_name   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+        <mxCell id="3_JIYGMOuchRpUuccZof-222" value="revision_date   DateTime" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
           <mxGeometry y="416" width="286" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-142" value="company_social_form   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+        <mxCell id="3_JIYGMOuchRpUuccZof-206" value="contrat_writing_date   DateTime" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
           <mxGeometry y="442" width="286" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-143" value="company_capital_amount   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="468" width="286" height="28" as="geometry" />
+        <mxCell id="3_JIYGMOuchRpUuccZof-205" value="convention_date   DateTime" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="468" width="286" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-144" value="company_headoffice_adress   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="496" width="286" height="24" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-141" value="company_zip_code   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="520" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-202" value="convention_name   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="546" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-231" value="company_website   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="572" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-232" value="company_data_category    List&lt;String&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="598" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-230" value="company_data_flow   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="624" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-372" value="company_max_layoff_days   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="650" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-235" value="company_staff_managment    List&lt;String&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="676" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-236" value="company_website_infos    List&lt;String&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="702" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-238" value="company_infos_stock_place    String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="728" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-237" value="company_infos_goals    List&lt;String&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="754" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-240" value="company_dpo   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="780" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-145" value="company_headoffice_city   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="806" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-146" value="company_rcs_number    Integer" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="832" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-226" value="company_adress   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="858" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-147" value="company_rcs_registration   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="884" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-148" value="company_country   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="910" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-229" value="company_open_time   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="936" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-149" value="company_dg   String&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="962" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-228" value="company_email   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="988" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-275" value="company_intended_data   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="1014" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-150" value="company_dg_quality   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="1040" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-171" value="company_workforce   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="1066" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-273" value="company_organism_name   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="1092" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-274" value="company_organism_adress   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="1118" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-167" value="employee_adress   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="1144" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-151" value="employee_gender   String&#xa;   &#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="1170" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-172" value="employee_start_date   DateTiùe" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="1196" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-155" value="employee_name   String&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="1222" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-168" value="employee_end_date   DateTime" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="1248" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-156" value="employee_quality   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="1274" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-157" value="employee_birthday   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="1300" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-158" value="employee_birthplace   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="1326" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-159" value="employee_birth_department   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontStyle=1" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="1352" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-161" value="employee_zip_code   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="1378" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-163" value="employee_job_title   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="1404" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-170" value="employee_hiring_date   DateTime&#xa;    &#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="1430" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-164" value="employee_hiring_city   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="1456" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-175" value="employee_task   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="1482" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-176" value="employee_end_date   DateTime" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="1508" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-177" value="employee_equipment   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="1534" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-169" value="employee_working_place   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="1560" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-178" value="employee_working_time   DateTime" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="1586" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-179" value="employee_trial_period   Integer" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="1612" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-267" value="employee_trial_renewal   Integer" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="1638" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-165" value="collective_agreement   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="1664" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-180" value="employee_gross_pay   Float" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="1690" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-243" value="employee_adress   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="1716" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="Q6SaiGtCZaNp9TXGjLjc-8" value="employee_fonctions   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="3_JIYGMOuchRpUuccZof-132">
-          <mxGeometry y="1742" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-208" value="employee_pay_calcul_methods   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="1768" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-181" value="employee_severance_pay   Float" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="1794" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-268" value="employee_variable_pay_terms   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="1820" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-269" value="employee_added_pay_details   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="1846" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-270" value="employee_added_pay_period   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="1872" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-182" value="employee_category   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="1898" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-183" value="employee_pension_name   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="1924" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-201" value="employee_pension_adress   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="1950" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-184" value="employee_email_rights_request   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="1976" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-213" value="employee_notice_end_date   DateTime" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="2002" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-233" value="employee_benefits    List&lt;String&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="2028" width="286" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3_JIYGMOuchRpUuccZof-210" value="employee_allowance   Float" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
-          <mxGeometry y="2054" width="286" height="26" as="geometry" />
+        <mxCell id="3_JIYGMOuchRpUuccZof-241" value="cookies_managment    List&lt;String&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="494" width="286" height="26" as="geometry" />
         </mxCell>
         <mxCell id="3_JIYGMOuchRpUuccZof-234" value="employee_premiums    List&lt;String&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="520" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-232" value="company_data_category    List&lt;String&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="546" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-233" value="employee_benefits    List&lt;String&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="572" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-237" value="company_infos_goals    List&lt;String&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="598" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-236" value="company_website_infos    List&lt;String&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="624" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-235" value="company_staff_managment    List&lt;String&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="650" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-239" value="teenagers_rights    String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="676" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-203" value="convention_renewal   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="702" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-207" value="convention_writing_place   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="728" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-209" value="clause_geographical_area   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="754" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-211" value="clause_decision_deadline   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="780" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-173" value="job_rung   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="806" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q6SaiGtCZaNp9TXGjLjc-7" value="job_coefficient   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="3_JIYGMOuchRpUuccZof-132">
+          <mxGeometry y="832" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-174" value="job_position   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="858" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-136" value="company_name   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="884" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-142" value="company_social_form   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="910" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-143" value="company_capital_amount   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="936" width="286" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-144" value="company_headoffice_adress   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="964" width="286" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-141" value="company_zip_code   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="988" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-202" value="convention_name   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="1014" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-231" value="company_website   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="1040" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-230" value="company_data_flow   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="1066" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-372" value="company_max_layoff_days   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="1092" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-238" value="company_infos_stock_place    String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="1118" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-240" value="company_dpo   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="1144" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-145" value="company_headoffice_city   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="1170" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-226" value="company_adress   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="1196" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-147" value="company_rcs_registration   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="1222" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-148" value="company_country   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="1248" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-229" value="company_open_time   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="1274" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-149" value="company_dg   String&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="1300" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-228" value="company_email   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="1326" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-275" value="company_intended_data   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="1352" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-150" value="company_dg_quality   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="1378" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-171" value="company_workforce   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="1404" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-273" value="company_organism_name   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="1430" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-274" value="company_organism_adress   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="1456" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-167" value="employee_adress   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="1482" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-151" value="employee_gender   String&#xa;   &#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="1508" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-155" value="employee_name   String&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="1534" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-156" value="employee_quality   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="1560" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-157" value="employee_birthday   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="1586" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-158" value="employee_birthplace   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="1612" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-159" value="employee_birth_department   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontStyle=1" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="1638" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-161" value="employee_zip_code   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="1664" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-163" value="employee_job_title   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="1690" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-164" value="employee_hiring_city   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="1716" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-175" value="employee_task   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="1742" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-177" value="employee_equipment   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="1768" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-169" value="employee_working_place   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="1794" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-165" value="collective_agreement   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="1820" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-243" value="employee_adress   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="1846" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q6SaiGtCZaNp9TXGjLjc-8" value="employee_fonctions   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="3_JIYGMOuchRpUuccZof-132">
+          <mxGeometry y="1872" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-208" value="employee_pay_calcul_methods   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="1898" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-268" value="employee_variable_pay_terms   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="1924" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-269" value="employee_added_pay_details   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="1950" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-270" value="employee_added_pay_period   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="1976" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-182" value="employee_category   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="2002" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-183" value="employee_pension_name   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="2028" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-201" value="employee_pension_adress   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
+          <mxGeometry y="2054" width="286" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3_JIYGMOuchRpUuccZof-184" value="employee_email_rights_request   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
           <mxGeometry y="2080" width="286" height="26" as="geometry" />
         </mxCell>
         <mxCell id="3_JIYGMOuchRpUuccZof-244" value="employee_city   String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="3_JIYGMOuchRpUuccZof-132" vertex="1">
